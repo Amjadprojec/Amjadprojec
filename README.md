@@ -1,110 +1,30 @@
+### Hi <img src="/assets/wave.gif" width="25px" />, I'm Samuel Christaura Geraldy
+I am an informatics student who is interested in the world of technology and programming. Here are some of the programming languages I use:
 
-  <style>
-   .profile-container {
-    max-width: 800px;
-    margin: 40px auto;
-    padding: 20px;
-    background-color: #f9f9f9;
-    border: 1px solid #ddd;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-   }
+![HTML](https://img.shields.io/badge/-HTML-282A36?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-282A36?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-282A36?style=flat&logo=javascript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-282A36?style=flat&logo=PHP)&nbsp;
+![Python](https://img.shields.io/badge/-python-282A36?style=flat&logo=python)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-282A36?style=flat&logo=bootstrap)&nbsp;
 
-   .profile-header {
-    text-align: center;
-    margin-bottom: 20px;
-   }
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xractz/Xractz/main/assets/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xractz/Xractz/main/assets/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Xractz/Xractz/main/assets/github-contribution-grid-snake.svg" />
+</picture>
 
-   .profile-header h1 {
-    font-size: 36px;
-    font-weight: bold;
-    color: #333;
-   }
 
-   .profile-stats {
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 20px;
-   }
 
-   .stat {
-    text-align: center;
-    margin: 0 20px;
-   }
+## My Github Stats
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Xractz&show_icons=true&include_all_commits=true&count_private=true&&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats)](https://github.com/Xractz/Xractz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xractz&layout=compact&hide_border=true&langs_count=8&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe)](https://github.com/Xractz/Xractz)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=samchristg&layout=compact&hide_border=true&langs_count=8&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe)](https://github.com/Xractz/Xractz)
+[![Streak Stats Langs](https://github-readme-streak-stats.herokuapp.com/?user=Amjayt&theme=dark&background=282A36&ring=57C7FF&fire=57C7FF&dates=686868&currStreakNum=9AEDFE&sideNums=57C7FF&currStreakLabel=9AEDFE&sideLabels=9AEDFE&stroke=57C7FF&border=282A36)](https://github.com/Amjadprojec)
 
-   .stat h2 {
-    font-size: 24px;
-    font-weight: bold;
-    color: #333;
-   }
 
-   .stat p {
-    font-size: 16px;
-    color: #666;
-   }
 
-   .profile-bio {
-    margin-bottom: 20px;
-   }
 
-   .profile-skills {
-    margin-bottom: 20px;
-   }
 
-   .profile-skills h2 {
-    font-size: 24px;
-    font-weight: bold;
-    color: #333;
-    margin-bottom: 10px;
-   }
 
-   .profile-skills ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-   }
 
-   .profile-skills li {
-    display: inline-block;
-    margin-right: 10px;
-    padding: 5px 10px;
-    background-color: #f0f0f0;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    font-size: 16px;
-    color: #666;
-   }
-  </style>
- </head>
- <body>
-  <div class="profile-container">
-   <div class="profile-header">
-    <h1>Amjadyt</h1>
-    <p>Selamat datang di amjadyt</p>
-   </div>
-   <div class="profile-stats">
-    <div class="stat">
-     <h2>6jt</h2>
-     <p>Followers</p>
-    </div>
-    <div class="stat">
-     <h2>1jt</h2>
-     <p>Repositories</p>
-    </div>
-    <div class="stat">
-     <h2>200</h2>
-     <p>Contributions</p>
-    </div>
-   </div>
-   <div class="profile-bio">
-    <p>php</p>
-   </div>
-   <div class="profile-skills">
-    <h2>Skills</h2>
-    <ul>
-     <li>HTML</li>
-     <li>CSS</li>
-     <li>JavaScript</li>
-     <li>Python</li>
-    </ul>
-   </div>
-  </div>
